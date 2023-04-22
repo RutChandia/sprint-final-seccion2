@@ -1,0 +1,13 @@
+body{
+    background-color:black;
+}
+
+#title{
+    text-align: center;
+    color: aliceblue;
+    padding: 16px;
+}
+
+.container{
+    padding: 32px;
+}
